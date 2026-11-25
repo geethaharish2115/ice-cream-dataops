@@ -37,7 +37,6 @@ jobs:
 
       IDP_CLIENT_ID: ${{ vars.IDP_CLIENT_ID }}
       IDP_CLIENT_SECRET: ${{ secrets.IDP_CLIENT_SECRET }}
-      IDP_SCOPES: ${{ vars.IDP_SCOPES }}
 
       DATA_DEVELOPER_SOURCE_ID: ${{ vars.DATA_DEVELOPER_SOURCE_ID }}
 
